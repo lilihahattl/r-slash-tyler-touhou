@@ -1,6 +1,6 @@
 {
     "faction": "touhou r/place",
-    "contact": "lilihahattl",
+    "contact": "@lilihahattl at touhou r/place",
     "templates": [
         {
             "name": "Small reimu",
@@ -10,7 +10,5 @@
             "x": 82,
             "y": 418
         }
-    ],
-    "whitelist": [],
-    "blacklist": []
+    ]
 }
