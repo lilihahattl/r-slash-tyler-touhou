@@ -1,0 +1,16 @@
+{
+    "faction": "touhou r/place",
+    "contact": "lilihahattl",
+    "templates": [
+        {
+            "name": "Small reimu",
+             "sources": [
+                "https://files.catbox.moe/sayaes.png"
+            ],
+            "x": 82,
+            "y": 418
+        }
+    ],
+    "whitelist": [],
+    "blacklist": []
+}
